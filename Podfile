@@ -6,7 +6,7 @@ def common
 	pod 'BinanceChain/Test', :path => '.'
 #  pod 'SwiftProtobuf', :inhibit_warnings => true
 	pod 'Starscream', :inhibit_warnings => true
-#  pod 'HDWalletKit', :inhibit_warnings => true
+  pod 'HDWalletKit', :inhibit_warnings => true
 	pod 'CryptoSwift', :inhibit_warnings => true
 end
 
